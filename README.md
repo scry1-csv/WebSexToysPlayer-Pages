@@ -8,10 +8,6 @@ https://github.com/scry1-csv/WebSexToysPlayer
 
 # Player
 
-https://scry1-csv.github.io/WebSexToysPlayer-Pages/
+Standalone ver: [https://scry1-csv.github.io/WebSexToysPlayer-Pages/player_wasm.html](https://scry1-csv.github.io/WebSexToysPlayer-Pages/player_wasm.html)
 
-# Player (old version)
-
-If you want non-Intiface version, use this:
-
-https://scry1-csv.github.io/WebSexToysPlayer-Pages/WebSexToysPlayer-Buttplug-Embedded/
+Intiface ver: [https://scry1-csv.github.io/WebSexToysPlayer-Pages/player_intiface.html](https://scry1-csv.github.io/WebSexToysPlayer-Pages/player_intiface.html)
