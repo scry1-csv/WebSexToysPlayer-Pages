@@ -11,8 +11,11 @@
     <h1>
         CoyoteScriptについて
     </h1>
-    <p>WebSexToysPlayerでは、DG-Lab COYOTE 3.0を連動させるための専用のスクリプト形式に対応しています。<br />
-        拡張子は <code style="background-color:#dddddd;padding:2px;">.coyotescript</code> です。書式は以下です。</p>
+    <p>
+        <a href="https://github.com/scry1-csv/WebSexToysPlayer/blob/main/README_ja.md">WebSexToysPlayer</a>
+        では、DG-Lab COYOTE 3.0を連動させるための専用のスクリプト形式に対応しています。<br />
+        拡張子は <code style="background-color:#dddddd;padding:2px;">.coyotescript</code> です。書式は以下です。
+    </p>
 
     <pre style="background-color:#dddddd;padding: 1em; width: fit-content;"><code>時間(ミリ秒単位),周波数(10-100),出力(0-100)
 時間(ミリ秒単位),周波数(10-100),出力(0-100)
@@ -20,4 +23,7 @@
 ...</code></pre>
 
     <p>ご覧の通り、中身はCSVそのものです。<br />Vorzeの回転式CSVの1列目（時間）をミリ秒単位に、2列目（回転方向）を周波数に変えたものだと思ってください。</p>
+    <p><a href="https://github.com/scry1-csv/Scry1ScriptTools">SexToyScriptConverter</a>
+        で、funscriptまたはUFOSA/A10サイクロンSA用CSVをCoyoteScriptに変換できます。
+    </p>
 </body>
